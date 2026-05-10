@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bishmoy
+
+This log tracks the cryptographic history and versioning for the song **Bishmoy** (bishmoy).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T06:43:48.570316 | `v1` | `84a56b1db0dfee6670e9425903594054d0d792f50265d6972347f6d770d9c9b6` | `8ae0b86ccebf26f7fef205c0862eaf96e5a93ed98f5786bf328866c54c0d5ea9` | `2026-05-10_bishmoy-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
