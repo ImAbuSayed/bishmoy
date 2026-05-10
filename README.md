@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bishmoy/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Bishmoy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bishmoy/) |
+| **Get License** | [Official Music Licensing for Bishmoy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bishmoy/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এক মায়ায় বাঁধে তোমার দুটি চোখ
+> মেঘের আড়ালে লুকিয়ে থাকা মিষ্টি কোনো শোক
+> কাছে আসার গল্প লেখে রাতের এই বাতাস
+> তোমায় ভেবেই রঙিন হয় আমার এ আকাশ
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
